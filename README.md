@@ -3,6 +3,10 @@
 ## Project Title
 Customer Segmentation using K-Means Clustering
 
+## 🌐 Live Application
+
+**Segmentra Dashboard:** [https://revenueiq.streamlit.app/](https://segmentra.streamlit.app/)
+
 ## Problem Statement
 This project segments mall customers into meaningful groups using income and spending behavior. The goal is to help businesses create targeted marketing strategies and improve customer engagement.
 
