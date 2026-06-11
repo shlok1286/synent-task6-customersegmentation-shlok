@@ -66,8 +66,4 @@ K-Means groups customers by similarity. It chooses cluster centers (centroids) a
 ## Conclusion
 This project successfully segments customers into six groups using K-Means clustering. These customer segments can help businesses tailor marketing campaigns, improve customer targeting, and increase revenue.
 
-## Future Improvements
-- Add age and gender to the clustering model
-- Build an interactive dashboard for business users
-- Test other clustering techniques such as DBSCAN
-- Use customer lifetime value for advanced segmentation
+If you found this project interesting, consider giving the repository a star.
